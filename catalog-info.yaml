@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: krkn
+  annotations:
+    github.com/project-slug: rhdh-hive-demo/krkn
+spec:
+  type: other
+  lifecycle: unknown
+  owner: cncf
