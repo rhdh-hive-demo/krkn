@@ -4,6 +4,7 @@ metadata:
   name: krkn
   annotations:
     github.com/project-slug: rhdh-hive-demo/krkn
+    backstage.io/kubernetes-id: rhdh
 spec:
   type: other
   lifecycle: unknown
